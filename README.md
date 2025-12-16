@@ -26,7 +26,7 @@ Carolinas offers a professional and clean frontend that highlights IT services, 
 
 ## 📷 Homepage Preview
 
-![Carolinas Homepage](./screenshots/heroSection.png)
+![Carolinas Homepage](https://raw.githubusercontent.com/PratikPaliwal509/Carolinas-Dev/screenshots/heroSection.png)
 ![Carolinas Homepage](./screenshots/aboutSection.png)
 ![Carolinas Homepage](./screenshots/serviceSection.png)
 ![Carolinas Homepage](./screenshots/feedbackSection.png)
