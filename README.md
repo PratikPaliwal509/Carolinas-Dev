@@ -26,17 +26,19 @@ Carolinas offers a professional and clean frontend that highlights IT services, 
 
 ## 📷 Homepage Preview
 
-![Carolinas Homepage](screenshots/heroSection.png)
-![Carolinas Homepage](screenshots/aboutSection.png)
-![Carolinas Homepage](screenshots/serviceSection.png)
-![Carolinas Homepage](screenshots/feedbackSection.png)
-![Carolinas Homepage](screenshots/taglineSection.png)
-![Carolinas Homepage](screenshots/bannerSection.png)
-![Carolinas Homepage](screenshots/coreValueSection.png)
-![Carolinas Homepage](screenshots/securityProtocolsSection.png)
-![Carolinas Homepage](screenshots/MetricsSection.png)
-![Carolinas Homepage](screenshots/SmartOutsourcingSection.png)
-![Carolinas Homepage](screenshots/footer.png)
+![Carolinas Homepage](public/screenshots/heroSection.png)
+![Carolinas Homepage](public/screenshots/aboutSection.png)
+![Carolinas Homepage](public/screenshots/serviceSection.png)
+![Carolinas Homepage](public/screenshots/serviceSection.png)
+![Carolinas Homepage](public/screenshots/serviceSection.png)
+![Carolinas Homepage](public/screenshots/feedbackSection.png)
+![Carolinas Homepage](public/screenshots/taglineSection.png)
+![Carolinas Homepage](public/screenshots/bannerSection.png)
+![Carolinas Homepage](public/screenshots/coreValueSection.png)
+![Carolinas Homepage](public/screenshots/securityProtocolsSection.png)
+![Carolinas Homepage](public/screenshots/MetricsSection.png)
+![Carolinas Homepage](public/screenshots/SmartOutsourcingSection.png)
+![Carolinas Homepage](public/screenshots/footer.png)
 
 ## 🤝 For Recruiters
 
