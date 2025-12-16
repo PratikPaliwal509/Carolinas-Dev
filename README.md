@@ -30,7 +30,6 @@ Carolinas offers a professional and clean frontend that highlights IT services, 
 ![Carolinas Homepage](public/screenshots/aboutSection.png)
 ![Carolinas Homepage](public/screenshots/serviceSection.png)
 ![Carolinas Homepage](public/screenshots/serviceSection.png)
-![Carolinas Homepage](public/screenshots/serviceSection.png)
 ![Carolinas Homepage](public/screenshots/feedbackSection.png)
 ![Carolinas Homepage](public/screenshots/taglineSection.png)
 ![Carolinas Homepage](public/screenshots/bannerSection.png)
